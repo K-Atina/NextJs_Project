@@ -1,1 +1,1 @@
-## Dashboard app from the NextJS webiste
+## Dashboard app from the NextJS websiste
